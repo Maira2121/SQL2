@@ -1,5 +1,4 @@
-# ¡Bienvenido al repositorio creado para presentar el taller 7 semana 5 de la Cantera nivel 2!
-## Taller semana 5: Taller de SQL.
+# ¡Bienvenido al repositorio SQL2.
 
 Crear una base de datos en MySQL que incluya la primera, segunda y tercera forma normal de SQL. La base de datos consiste en dar solución a una tienda que contiene lo siguiente:
 
